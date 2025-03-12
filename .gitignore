@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+dbt_project/target/
+dbt_project/dbt_packages/
+reports/output/
+.DS_Store

@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: raw_github
+    schema: RAW_GITHUB
+    tables:
+      - name: REPOSITORIES
+      - name: COMMITS
+      - name: ISSUES
